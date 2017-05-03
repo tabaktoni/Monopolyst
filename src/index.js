@@ -22,4 +22,4 @@ angular
   .component('footerComponent', Footer)
   .component('mainSection', MainSection)
   .component('todoTextInput', TodoTextInput)
-  .component('todoItem', TodoItem);
+  .component('todoItem', TodoItem); 
